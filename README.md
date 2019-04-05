@@ -4,7 +4,7 @@
 ## To Do List
 - [ ] Create style guide
 - [ ] Review content
-- [ ] Train administristrators
+- [ ] Train administrators
 - [ ] User testing
 
 ## People
@@ -13,6 +13,7 @@
 - Dante
 - Rob
 - Anna
+- Paul
 
 #### Technical Administrators
 - Shawn
