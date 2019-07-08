@@ -1,4 +1,4 @@
-For more about auditing [visit.](https://github.com/Emceelamb/itp-help-site/blob/master/accessibility-developer-guidebook.md "github repo") 
+For more about auditing visit [ITP Accessibility Guidebook](https://github.com/Emceelamb/itp-help-site/blob/master/accessibility-developer-guidebook.md "github repo"). 
 
 This checklist is excerpted from [NYU's Digital Accessibility Checklist](https://docs.google.com/document/d/1fogU2SYaXVX3acioGzF55jaoz8w2SZ5eCfuOQCkRUtk/edit "Google Drive").
 # Digital Accessibility Checklist
