@@ -6,7 +6,7 @@ Alt text or alternative text are used within HTML code to describe the appearanc
 
 [Read more about text alternatives](https://www.abilitynet.org.uk/blog/five-golden-rules-compliant-alt-text "abilitynet.org")
 
-## Keyboard accessible lnks
+## Keyboard accessible links
 Some internet users have mobility impairments and can't use a mouse. They rely on keyboard or keyboardlike devices to navigate interactive features of a website. The `Tab` key is used to move forward through elements and `Shift+Tab` to go back.
 
 You should be able to access the following by tabbing:
@@ -38,8 +38,8 @@ Examples of non-semantic elements: `<div>` and `<span>` - Tells nothing about it
 Examples of semantic elements: `<form>`, `<table>`, and `<article>` - Clearly defines its content.
 
 ## External links
-It is important to warn people using assistive technologies that a new window has opened.
-[Waaz Solution](https://waaz.xyz/adding-external-link-indicator-with-css/ "Waaz article about external links")
+It is important to warn people using assistive technologies that a new window has opened. 
+* [Waaz Solution](https://waaz.xyz/adding-external-link-indicator-with-css/ "Waaz article about external links")
 
 ## Aria Landmark Roles
 Aria landmark roles allow developers to identify regions of a page providing immediate benefit. Screen reader users can jump to that section of the page.
@@ -54,5 +54,5 @@ The eight ARIA landmark roles are:
 *   role=”application” (a web application with its own keyboard interface)
 
 ## Headings
-Headings communicate the organization of the content within a page. Web browsers and assistive technologies can use them to provide in-page navigation. Use html tags with the correct hierarchy without skipping any number.
-[Read more about headings](https://www.w3.org/WAI/tutorials/page-structure/headings/ "w3.org")
+Headings communicate the organization of the content within a page. Web browsers and assistive technologies can use them to provide in-page navigation. Use html tags with the correct hierarchy without skipping any number. 
+* [Read more about headings](https://www.w3.org/WAI/tutorials/page-structure/headings/ "w3.org")
