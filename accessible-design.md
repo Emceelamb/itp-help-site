@@ -17,7 +17,7 @@ You should be able to access the following by tabbing:
 
 ## Visible focus style
 Keyboard users need visual indication of where they are on a page when tabbing. Without a focus style it is difficult to tell where they are.
-![Example of a link with focus visible](/focus-visible.png)
+![Example of a link with focus visible](/images/focus-visible.png)
 
 ```css
 :focus {
@@ -28,7 +28,7 @@ Keyboard users need visual indication of where they are on a page when tabbing. 
 ## color contrast
 Visitors with vision impairment may struggle to read text on a low contrast background. WCAG 2.1 Level AA recommends a minimum contrast ration of 4.5:1 for text.
 
-![Color Contrast examples](/contrast.png)
+![Color Contrast examples](/images/contrast.png)
 
 ## Semantic html
 HTML5 Semantic elements clearly describe meaning to both browsers and the developer.
