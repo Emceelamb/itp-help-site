@@ -44,14 +44,14 @@ It is important to warn people using assistive technologies that a new window ha
 ## Aria Landmark Roles
 Aria landmark roles allow developers to identify regions of a page providing immediate benefit. Screen reader users can jump to that section of the page.
 The eight ARIA landmark roles are: 
-*   role=”banner”
-*   role=”navigation” (e.g., a menu)
-*   role=”main” (the main content of the page)
-*   role=”complementary” (e.g., a sidebar)
-*   role=”contentinfo” (meta data about the page, e.g., a copyright statement)
-*   role=”search”
-*   role=”form”
-*   role=”application” (a web application with its own keyboard interface)
+*   `role="banner"`
+*   `role="navigation"` (e.g., a menu)
+*   `role="main"` (the main content of the page)
+*   `role="complementary"` (e.g., a sidebar)
+*   `role="contentinfo"` (meta data about the page, e.g., a copyright statement)
+*   `role="search"`
+*   `role="form"`
+*   `role="application"` (a web application with its own keyboard interface)
 
 ## Headings
 Headings communicate the organization of the content within a page. Web browsers and assistive technologies can use them to provide in-page navigation. Use html tags with the correct hierarchy without skipping any number. 
